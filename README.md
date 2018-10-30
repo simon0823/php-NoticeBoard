@@ -8,3 +8,6 @@
 
 > php documentation : http://php.net <br/>
 > php 자체 내장서버 사용법 : http://php.net/manual/kr/features.commandline.webserver.php
+
+
+(아직 페이징은 귀찮아서... 미완성...)
