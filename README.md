@@ -1,4 +1,4 @@
-## php-NoticeBoard
+## php-NoticeBoard (2018.08.14 ~ 2018.08.20)
 
 * 게시판의 프론트엔드 부분은 HTML, CSS, JAVASCRIPT를 사용 <br/>
 * 게시판의 백엔드 부분은 PHP를 사용 <br/>
