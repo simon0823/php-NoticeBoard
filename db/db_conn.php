@@ -2,7 +2,7 @@
 
     static $host = '127.0.0.1';
     static $user = 'root';
-    static $pw = 'simon2311';
+    static $pw = '';
     static $dbName = 'php_noticeboard';
 
     try {
